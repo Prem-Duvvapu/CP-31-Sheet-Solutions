@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CoverInWater {
+public class HalloumiBoxes {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -12,12 +12,14 @@ public class CoverInWater {
         Solution solution=new Solution();
 
         while (t-- > 0) {
-            //take input
             int n=fr.nextInt();
-            String s=fr.next();
+            int k=fr.nextInt();
+            int[] a=new int[n];
 
-            //make call to execute the logic
-            solution.solve(s,n,out);
+            for (int i=0;i<n;i++)
+                a[i]=fr.nextInt();
+
+            solution.solve(a,k,n,out);
         }
 
         out.close();
@@ -25,30 +27,20 @@ public class CoverInWater {
 }
 
 class Solution {
-    //write logic here and print the result
-    public void solve(String s,int n,PrintWriter out) {
-        char[] a=s.toCharArray();
-        int maxConsecutiveEmpytCnt=0;
-        int totalEmptyCnt=0;
-        int currConsecutiveEmptyCnt=0;
-
-        for (int i=0;i<n;i++) {
-            if (a[i]=='.') {
-                currConsecutiveEmptyCnt++;
-            } else {
-                maxConsecutiveEmpytCnt=Math.max( maxConsecutiveEmpytCnt,currConsecutiveEmptyCnt);
-                totalEmptyCnt+=currConsecutiveEmptyCnt;
-                currConsecutiveEmptyCnt=0;
+    public void solve(int[] a,int k,int n,PrintWriter out) {
+        StringBuilder res=new StringBuilder();
+        if (k==1) {
+            for (int i=1;i<n;i++) {
+                if (a[i]<a[i-1]) {
+                    res.append("NO");
+                    out.println(res);
+                    return;
+                }
             }
         }
-
-        maxConsecutiveEmpytCnt=Math.max( maxConsecutiveEmpytCnt,currConsecutiveEmptyCnt);
-        totalEmptyCnt+=currConsecutiveEmptyCnt;
-
-        if (maxConsecutiveEmpytCnt>=3)
-            out.println(2);
-        else
-            out.println(totalEmptyCnt);
+        
+        res.append("YES");
+        out.println(res);
     }
 }
 

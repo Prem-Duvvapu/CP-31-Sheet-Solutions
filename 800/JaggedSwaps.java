@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CoverInWater {
+public class JaggedSwaps {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -14,10 +14,13 @@ public class CoverInWater {
         while (t-- > 0) {
             //take input
             int n=fr.nextInt();
-            String s=fr.next();
+            int[] a=new int[n];
+
+            for (int i=0;i<n;i++)
+                a[i]=fr.nextInt();
 
             //make call to execute the logic
-            solution.solve(s,n,out);
+            solution.solve(a,n,out);
         }
 
         out.close();
@@ -26,29 +29,15 @@ public class CoverInWater {
 
 class Solution {
     //write logic here and print the result
-    public void solve(String s,int n,PrintWriter out) {
-        char[] a=s.toCharArray();
-        int maxConsecutiveEmpytCnt=0;
-        int totalEmptyCnt=0;
-        int currConsecutiveEmptyCnt=0;
+    public void solve(int[] a,int n,PrintWriter out) {
+        StringBuilder res=new StringBuilder();
 
-        for (int i=0;i<n;i++) {
-            if (a[i]=='.') {
-                currConsecutiveEmptyCnt++;
-            } else {
-                maxConsecutiveEmpytCnt=Math.max( maxConsecutiveEmpytCnt,currConsecutiveEmptyCnt);
-                totalEmptyCnt+=currConsecutiveEmptyCnt;
-                currConsecutiveEmptyCnt=0;
-            }
-        }
-
-        maxConsecutiveEmpytCnt=Math.max( maxConsecutiveEmpytCnt,currConsecutiveEmptyCnt);
-        totalEmptyCnt+=currConsecutiveEmptyCnt;
-
-        if (maxConsecutiveEmpytCnt>=3)
-            out.println(2);
+        if (a[0]==1)
+            res.append("YES");
         else
-            out.println(totalEmptyCnt);
+            res.append("NO");
+
+        out.println(res);
     }
 }
 

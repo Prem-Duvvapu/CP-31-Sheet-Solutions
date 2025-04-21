@@ -8,3 +8,4 @@
 5. [Jagged Swaps](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/JaggedSwaps.java)
 6. [Doremy's Paint 3](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/DoremysPaint3.java)
 7. [Don't Try to Count](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/DontTryToCount.java)
+8. [Goals Of Victory](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/GoalsOfVictory.java)

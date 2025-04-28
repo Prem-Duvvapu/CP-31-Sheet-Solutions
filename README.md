@@ -17,3 +17,4 @@
 14. [Buttons](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/Buttons.java)
 15. [Array Coloring](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/ArrayColoring.java)
 16. [Desorting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/Desorting.java)
+17. [Forbidden Integer](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/ForbiddenInteger.java)

@@ -20,3 +20,4 @@
 17. [Forbidden Integer](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/ForbiddenInteger.java)
 18. [Grasshopper on a Line](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/GrassHopperOnALine.java)
 19. [Unit Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/UnitArray.java)
+20. [Twin Permutations](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/TwinPermutations.java)

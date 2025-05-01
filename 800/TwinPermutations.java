@@ -1,7 +1,10 @@
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.util.StringTokenizer;
 
-public class CPTemplate {
+public class TwinPermutations {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,8 +16,14 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            int n=fr.nextInt();
+            int[] a=new int[n];
+
+            for (int i=0;i<n;i++)
+                a[i]=fr.nextInt();
 
             //make call to execute the logic
+            solution.solve(a,n);
         }
 
         out.println(solution.res);
@@ -24,11 +33,12 @@ public class CPTemplate {
 }
 
 class Solution {
-    public static final int MOD=1_000_000_007;
     public StringBuilder res=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int[] a,int n) {
+        for (int val: a)
+            res.append((n+1)-val).append(" ");
 
         res.append("\n");
     }

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class BlankSpace {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,12 +13,14 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            int n=fr.nextInt();
+            int[] a=new int[n];
+
+            for (int i=0;i<n;i++)
+                a[i]=fr.nextInt();
 
             //make call to execute the logic
-            solution.solve();
-
-            //new line after test case ans
-            solution.res.append("\n");
+            solution.solve(a,n);
         }
 
         out.println(solution.res);
@@ -32,8 +34,23 @@ class Solution {
     public StringBuilder res=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int[] a,int n) {
+        int maxLen=0;
+        int cnt=0;
 
+        for (int val: a) {
+            if (val==0) {
+                cnt++;
+            } else {
+                maxLen=Math.max(maxLen,cnt);
+                cnt=0;
+            }
+        }
+
+        maxLen=Math.max(maxLen,cnt);
+        res.append(maxLen);
+        
+        res.append("\n");
     }
 }
 

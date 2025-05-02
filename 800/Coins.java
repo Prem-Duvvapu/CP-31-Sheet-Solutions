@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class Coins {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,11 +13,12 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            long n=fr.nextLong();
+            long k=fr.nextLong();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(n,k);
 
-            //new line after test case ans
             solution.res.append("\n");
         }
 
@@ -32,8 +33,18 @@ class Solution {
     public StringBuilder res=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(long n,long k) {
+        if ((n&1)==0L) {
+            res.append("YES");
+            return;
+        }
 
+        if ((n&1)==1L && (k&1)==0L) {
+            res.append("NO");
+            return;
+        }
+
+        res.append("YES");
     }
 }
 

@@ -23,3 +23,4 @@
 20. [Twin Permutations](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/TwinPermutations.java)
 21. [Blank Space](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/BlankSpace.java)
 22. [Coins](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/Coins.java)
+22. [Walking Master](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/WalkingMaster.java)

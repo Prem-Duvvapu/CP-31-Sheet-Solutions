@@ -27,4 +27,4 @@
 24. [We Need the Zero](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/WeNeedTheZero.java)
 25. [Prepend and Append](https://github.com/Prem-Duvvapu/
 CP-31-Sheet-Solutions/blob/main/800/PrependAndAppend.java)
-26. [Serval and Mocha's Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/PrependAndAppend.java)
+26. [Serval and Mocha's Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/ServalAndMochasArray.java)

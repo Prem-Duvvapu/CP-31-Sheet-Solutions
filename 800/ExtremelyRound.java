@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class ExtremelyRound {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,9 +13,10 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            int n=fr.nextInt();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(n);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -32,8 +33,20 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int n) {
+        int cnt=0;
+        int temp=n;
+        int tenPower=1_000_00;
 
+        while (temp>0) {
+            if (temp/tenPower>0) {
+                cnt+=(temp/tenPower);
+                temp=tenPower-1;
+            }
+            tenPower/=10;
+        }
+
+        sb.append(cnt);
     }
 }
 

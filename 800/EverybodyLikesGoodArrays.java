@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class EverybodyLikesGoodArrays {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,9 +13,14 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            int n=fr.nextInt();
+            int[] a=new int[n];
+
+            for (int i=0;i<n;i++)
+                a[i]=fr.nextInt();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(a,n);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -32,8 +37,20 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int[] a,int n) {
+        if (n==1) {
+            sb.append(0);
+            return;
+        }
 
+        int res=0;
+        for (int i=1;i<n;i++) {
+            if (((a[i]&1)^(a[i-1]&1))==0) { //same parity
+                res++;
+            }
+        }
+
+        sb.append(res);
     }
 }
 

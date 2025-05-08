@@ -29,3 +29,5 @@
 26. [Serval and Mocha's Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/ServalAndMochasArray.java)
 27. [One and Two](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/OneAndTwo.java)
 28. [Make it Beautiful](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/MakeItBeautiful.java)
+29. [Everybody Likes Good Arrays!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/EverybodyLikesGoodArrays.java)
+30. [Extremely Round](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/ExtremelyRound.java)

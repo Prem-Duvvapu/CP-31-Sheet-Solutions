@@ -31,3 +31,7 @@
 28. [Make it Beautiful](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/MakeItBeautiful.java)
 29. [Everybody Likes Good Arrays!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/EverybodyLikesGoodArrays.java)
 30. [Extremely Round](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/ExtremelyRound.java)
+31. [Two Permutations](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/800/TwoPermutations.java)
+
+## 900
+1. [Forked!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/Forked.java)

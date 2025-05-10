@@ -35,3 +35,5 @@
 
 ## 900
 1. [Forked!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/Forked.java)
+2. [Chemistry](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/Chemistry.java)
+3. [Vasilije in Cacak](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/VasilijeInCacak.java)

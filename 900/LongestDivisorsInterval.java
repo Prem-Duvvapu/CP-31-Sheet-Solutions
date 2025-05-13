@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class LongestDivisorsInterval {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,9 +13,10 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            long n=fr.nextLong();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(n);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -28,14 +29,19 @@ public class CPTemplate {
 }
 
 class Solution {
-    public static final int INT_MOD=1_000_000_007;
-    public static final long LONG_MOD=1_000_000_007L;
-
+    public static final int MOD=1_000_000_007;
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(long n) {
+        int res=1;
+        for (long i=2;i<=n;i++) {
+            if (n%i!=0)
+                break;
+            res++;
+        }
 
+        sb.append(res);
     }
 }
 

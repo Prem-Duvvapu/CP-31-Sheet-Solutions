@@ -38,5 +38,3 @@
 2. [Chemistry](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/Chemistry.java)
 3. [Vasilije in Cacak](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/VasilijeInCacak.java)
 4. [Make It Zero](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MakeItZero.java)
-5. [Longest Divisors Interval](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/LongestDivisorsInterval.java)
-6. [Balanced Round](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/BalancedRound.java)

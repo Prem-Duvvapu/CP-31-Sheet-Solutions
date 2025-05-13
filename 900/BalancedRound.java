@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class BalancedRound {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,9 +13,15 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            int n=fr.nextInt();
+            int k=fr.nextInt();
+            int[] a=new int[n];
+
+            for (int i=0;i<n;i++)
+                a[i]=fr.nextInt();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(a,k,n);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -28,14 +34,27 @@ public class CPTemplate {
 }
 
 class Solution {
-    public static final int INT_MOD=1_000_000_007;
-    public static final long LONG_MOD=1_000_000_007L;
-
+    public static final int MOD=1_000_000_007;
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int[] a,int k,int n) {
+        Arrays.sort(a);
+        int maxBalanced=1;
+        int currBalanced=1;
 
+        for (int i=1;i<n;i++) {
+            if (a[i]-a[i-1]<=k) {
+                currBalanced++;
+            } else {
+                maxBalanced=Math.max(maxBalanced,currBalanced);
+                currBalanced=1;
+            }
+        }
+        maxBalanced=Math.max(maxBalanced,currBalanced);
+
+        int res=Math.min(n-maxBalanced,n);
+        sb.append(res);
     }
 }
 

@@ -43,3 +43,8 @@
 7. [Balanced Round](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/BalancedRound.java)
 8. [Comparison String](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/ComparisonString.java)
 9. [Permutation Swap](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/PermutationSwap.java)
+10. [Odd Queries](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/OddQueries.java)
+11. [Not Dividing](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/NotDividing.java)
+12. [Mainak and Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MainakAndArray.java)
+13. [NIT Destroys the Universe](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/NITDestroysTheUniverse.java)
+

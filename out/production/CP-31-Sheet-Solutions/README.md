@@ -37,4 +37,20 @@
 1. [Forked!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/Forked.java)
 2. [Chemistry](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/Chemistry.java)
 3. [Vasilije in Cacak](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/VasilijeInCacak.java)
-4. [Make It Zero](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MakeItZero.java)
+4. [Jellyfish and Undertale](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/JellyfishAndUndertale.java)
+5. [Make It Zero](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MakeItZero.java)
+6. [Longest Divisors Interval](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/LongestDivisorsInterval.java)
+7. [Balanced Round](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/BalancedRound.java)
+8. [Comparison String](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/ComparisonString.java)
+9. [Permutation Swap](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/PermutationSwap.java)
+10. [Odd Queries](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/OddQueries.java)
+11. [Not Dividing](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/NotDividing.java)
+12. [Mainak and Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MainakAndArray.java)
+13. [NIT Destroys the Universe](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/NITDestroysTheUniverse.java)
+14. [AvtoBus](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/AvtoBus.java)
+15. [Make It Increasing](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MakeItIncreasing.java)
+16. [Deletive Editing](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/DeletiveEditing.java)
+17. [Array Cloning Technique](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/ArrayCloningTechnique.java)
+
+
+

@@ -54,8 +54,7 @@
 18. [Make AP](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MakeAP.java)
 19. [Odd Grasshopper](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/OddGrasshopper.java)
 20. [AB Balance](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/ABBalance.java)
-
-
+21. [Make it Divisible by 25](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MakeItDivisibleBy25.java)
 
 
 

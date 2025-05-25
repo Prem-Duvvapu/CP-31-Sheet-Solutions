@@ -57,6 +57,8 @@
 21. [Make it Divisible by 25](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MakeItDivisibleBy25.java)
 22. [Luntik and Subsequences](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/LuntikAndSubsequences.java)
 23. [Mocha and Math](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MochaAndMath.java)
+24. [Exciting Bets](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/ExcitingBets.java)
+25. [Bad Boy](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/BadBoy.java)
 
 
 

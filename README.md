@@ -59,6 +59,8 @@
 23. [Mocha and Math](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MochaAndMath.java)
 24. [Exciting Bets](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/ExcitingBets.java)
 25. [Bad Boy](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/BadBoy.java)
+26. [Odd Divsior](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/OddDivsior.java)
+27. [Strange Partition](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/StrangePartition.java)
 
 
 

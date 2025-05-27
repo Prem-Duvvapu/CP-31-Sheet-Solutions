@@ -61,6 +61,8 @@
 25. [Bad Boy](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/BadBoy.java)
 26. [Odd Divsior](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/OddDivsior.java)
 27. [Strange Partition](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/StrangePartition.java)
+28. [Sum of Medians](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/SumOfMedians.java)
+29. [Three Indices](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/ThreeIndices.java)
 
 
 

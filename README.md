@@ -63,6 +63,8 @@
 27. [Strange Partition](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/StrangePartition.java)
 28. [Sum of Medians](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/SumOfMedians.java)
 29. [Three Indices](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/ThreeIndices.java)
+30. [01 Game](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/Game01.java)
+31. [Multiply by 2, divide by 6](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MultipleBy2DivideBy6.java)
 
 
 

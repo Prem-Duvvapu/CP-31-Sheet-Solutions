@@ -66,5 +66,6 @@
 30. [01 Game](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/Game01.java)
 31. [Multiply by 2, divide by 6](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/900/MultipleBy2DivideBy6.java)
 
-
-
+## 1000
+1. [Swap and Delete](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/SwapAndDelete.java)
+2. [Raspberries](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/Raspberries.java)

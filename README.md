@@ -69,3 +69,4 @@
 ## 1000
 1. [Swap and Delete](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/SwapAndDelete.java)
 2. [Raspberries](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/Raspberries.java)
+3. [Helmets in Night Light](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/HelmetsInNightLight.java)

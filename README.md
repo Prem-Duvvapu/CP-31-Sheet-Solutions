@@ -72,4 +72,6 @@
 3. [Helmets in Night Light](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/HelmetsInNightLight.java)
 4. [Olya and Game with Arrays](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/OlyaAndGameWithArrays.java)
 5. [Monsters](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/Monsters.java)
+6. [Ski Resort](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/SkiResort.java)
+
 

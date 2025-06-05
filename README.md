@@ -75,5 +75,7 @@
 6. [Ski Resort](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/SkiResort.java)
 7. [Array merging](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/ArrayMerging.java)
 8. [Distinct Split](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/DistinctSplit.java)
+9. [Minimum LCM](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/MinimumLCM.java)
+
 
 

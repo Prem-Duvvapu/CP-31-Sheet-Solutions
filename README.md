@@ -74,5 +74,7 @@
 5. [Monsters](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/Monsters.java)
 6. [Ski Resort](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/SkiResort.java)
 7. [Array merging](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/ArrayMerging.java)
+8. [Minimum LCM](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/MinimumLCM.java)
+
 
 

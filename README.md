@@ -77,6 +77,8 @@
 8. [Distinct Split](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/DistinctSplit.java)
 9. [Minimum LCM](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/MinimumLCM.java)
 10. [Traffic Light](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/TrafficLight.java)
+11. [Basketball Together](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BasketballgTogether.java)
+
 
 
 

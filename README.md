@@ -78,6 +78,8 @@
 9. [Minimum LCM](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/MinimumLCM.java)
 10. [Traffic Light](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/TrafficLight.java)
 11. [Basketball Together](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BasketballgTogether.java)
+12. [Beautiful Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BeautifulArray.java)
+
 
 
 

@@ -81,6 +81,7 @@
 12. [Beautiful Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BeautifulArray.java)
 13. [Luke is a Foodie](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/LukeIsAFoodie.java)
 14. [Shoe Shuffling](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/ShoeShuffling.java)
+15. [Black and White Stripe](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BlackAndWhiteStripe.java)
 
 
 

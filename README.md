@@ -82,7 +82,8 @@
 13. [Luke is a Foodie](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/LukeIsAFoodie.java)
 14. [Shoe Shuffling](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/ShoeShuffling.java)
 15. [Black and White Stripe](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BlackAndWhiteStripe.java)
-16. [Red Versus Blue](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/RedVersusBlue.java) [`Pigeonhole Principle`]
+16. [Red Versus Blue](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/RedVersusBlue.java) — *Uses Pigeonhole Principle*
+
 
 
 

@@ -83,6 +83,7 @@
 14. [Shoe Shuffling](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/ShoeShuffling.java)
 15. [Black and White Stripe](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BlackAndWhiteStripe.java)
 16. [Red Versus Blue](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/RedVersusBlue.java) — *Uses Pigeonhole Principle*
+17. [Roof Construction](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/RoofConstruction.java)
 
 
 

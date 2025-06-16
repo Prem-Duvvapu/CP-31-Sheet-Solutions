@@ -86,6 +86,7 @@
 17. [Roof Construction](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/RoofConstruction.java)
 18. [Triangles on a Rectangle](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/TrianglesOnARectangle.java)
 19. [Divan and a New Project](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/DivanAndANewProject.java)
+20. [MEXor Mixup](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/MEXorMixup.java)
 
 
 

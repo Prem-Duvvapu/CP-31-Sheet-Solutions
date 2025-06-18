@@ -88,6 +88,7 @@
 19. [Divan and a New Project](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/DivanAndANewProject.java)
 20. [MEXor Mixup](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/MEXorMixup.java)
 21. [Double-ended Strings](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/DoubleEndedStrings.java)
+22. [Add and Divide](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/AddAndDivide.java)
 
 
 

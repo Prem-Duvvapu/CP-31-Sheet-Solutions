@@ -94,6 +94,8 @@
 25. [Valerii Against Everyone](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/ValeriiAgainstEveryone.java)
 26. [Buying Torches](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BuyingTorches.java)
 27. [Fair Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/FairNumbers.java)
+28. [Move Brackets](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/MoveBrackets.java)
+29. [Johnny and Ancient Computer](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/JohnnyAndAncientComputer..java)
 
 
 

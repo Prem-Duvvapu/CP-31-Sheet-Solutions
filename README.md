@@ -95,10 +95,10 @@
 26. [Buying Torches](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/BuyingTorches.java)
 27. [Fair Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/FairNumbers.java)
 28. [Move Brackets](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/MoveBrackets.java)
-29. [Johnny and Ancient Computer](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/JohnnyAndAncientComputer..java)
+29. [Johnny and Ancient Computer](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/JohnnyAndAncientComputer.java)
+30. [Bogosort](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/Bogosort.java)
+31. [Reverse a Substring](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/ReverseASubstring.java)
 
-
-
-
+## 1100
 
 

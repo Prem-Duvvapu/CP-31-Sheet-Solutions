@@ -100,5 +100,6 @@
 31. [Reverse a Substring](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/ReverseASubstring.java)
 
 ## 1100
+1. [Erase First or Second Letter](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1000/EraseFirstOrSecondLetter.java)
 
 

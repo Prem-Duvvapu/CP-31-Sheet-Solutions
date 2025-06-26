@@ -101,5 +101,7 @@
 
 ## 1100
 1. [Erase First or Second Letter](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/EraseFirstOrSecondLetter.java)
+2. [Quests](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/Quests.java)
+3. [Collecting Game](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/CollectingGame.java)
 
 

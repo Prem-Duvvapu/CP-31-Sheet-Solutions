@@ -103,5 +103,8 @@
 1. [Erase First or Second Letter](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/EraseFirstOrSecondLetter.java)
 2. [Quests](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/Quests.java)
 3. [Collecting Game](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/CollectingGame.java)
+4. [Yarik and Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/YarikAndArray.java)
+5. [250 Thousand Tons of TNT](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/ThousandTonsOfTNT.java)
+6. [Deja Vu](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/DejaVu.java)
 
 

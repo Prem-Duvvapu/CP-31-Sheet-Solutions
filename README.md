@@ -107,5 +107,6 @@
 5. [250 Thousand Tons of TNT](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/ThousandTonsOfTNT.java)
 6. [Deja Vu](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/DejaVu.java)
 7. [Building an Aquarium](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/BuildingAnAquarim.java)
+8. [2D Traveling](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/TwoDTraveling.java)
 
 

@@ -111,5 +111,6 @@
 9. [Cardboard for Pictures](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/CardboardForPictures.java)
 10. [Tenzing and Books](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/TenzingAndBooks.java)
 11. [Maximum Sum](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/MaximumSum.java)
+12. [Counting Orders](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/CountingOrders.java)
 
 

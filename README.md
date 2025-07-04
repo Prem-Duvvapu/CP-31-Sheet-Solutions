@@ -113,5 +113,5 @@
 11. [Maximum Sum](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/MaximumSum.java)
 12. [Counting Orders](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/CountingOrders.java)
 13. [Lunatic Never Content](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/LunaticNeverContent.java)
-
+14. [Sort the Subarray](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/SortTheSubarray.java)
 

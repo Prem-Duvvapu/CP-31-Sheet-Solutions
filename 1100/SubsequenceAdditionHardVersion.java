@@ -40,7 +40,24 @@ class Solution {
 
     //write logic here and print the result
     public void solve(int n,int[] c) {
+        long sum = 1;
+        Arrays.sort(c);
 
+        if (c[0]!=1) {
+            sb.append("No");
+            return;
+        }
+
+        for (int i=1;i<n;i++) {
+            if (c[i]>sum) {
+                sb.append("No");
+                return;
+            } else {
+                sum += c[i];
+            }
+        }
+
+        sb.append("Yes");
     }
 }
 

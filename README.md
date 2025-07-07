@@ -118,4 +118,6 @@
 16. [Subsequence Addition (Hard Version)](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/SubsequenceAdditionHardVersion.java)
 17. [Li Hua and Pattern](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/LiHuaAndPattern.java)
 18. [Teleporters (Easy Version)](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/TeleportersEasyVersion.java)
+19. [Negatives and Positives](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/NegativesAndPositives.java)
+20. [GCD Partition](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/GCDPartition.java)
 

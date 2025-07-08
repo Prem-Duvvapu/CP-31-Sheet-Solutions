@@ -120,4 +120,5 @@
 18. [Teleporters (Easy Version)](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/TeleportersEasyVersion.java)
 19. [Negatives and Positives](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/NegativesAndPositives.java)
 20. [GCD Partition](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/GCDPartition.java)
+21. [Coprime](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/Coprime.java)
 

@@ -124,4 +124,7 @@
 22. [Kill Demodogs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/KillDemodogs.java)
 23. [Difference of GCDs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/DifferenceOfGCDs.java)
 24. [AND Sorting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/ANDSorting.java)
+25. [A Perfectly Balanced String?](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/APerfectlyBalancedString.java)
+26. [Eating Candies](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/EatingCandies.java)
+27. [Subtract Operation](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/SubtractOperation.java)
 

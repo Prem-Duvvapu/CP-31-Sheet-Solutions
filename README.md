@@ -127,4 +127,6 @@
 25. [A Perfectly Balanced String?](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/APerfectlyBalancedString.java)
 26. [Eating Candies](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/EatingCandies.java)
 27. [Subtract Operation](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/SubtractOperation.java)
+28. [Fun with Even Subarrays](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/FunWithEvenSubarrays.java)
+29. [Paint the Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/PaintTheArray.java)
 

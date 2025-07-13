@@ -129,4 +129,9 @@
 27. [Subtract Operation](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/SubtractOperation.java)
 28. [Fun with Even Subarrays](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/FunWithEvenSubarrays.java)
 29. [Paint the Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/PaintTheArray.java)
+30. [Kalindrome Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/KalindromeArray.java)
+31. [Yet Another Card Deck](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1100/YetAnotherCardDeck.java)
+
+## 1200
+1. [Three Activities](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/ThreeActivities.java)
 

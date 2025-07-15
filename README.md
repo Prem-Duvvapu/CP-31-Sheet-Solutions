@@ -135,4 +135,5 @@
 ## 1200
 1. [Three Activities](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/ThreeActivities.java)
 2. [Make Almost Equal With Mod](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/MakeAlmostEqualWithMod.java)
+3. [Plus Minus Permutation](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/PlusMinusPermutation.java)
 

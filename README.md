@@ -139,5 +139,6 @@
 4. [Assembly via Minimums](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/AssemblyViaMinimums.java)
 5. [Vika and the Bridge](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/VikaAndTheBridge.java)
 6. [Contrast Value](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/ContrastValue.java)
+7. [Playing in a Casino](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/PlayingInACasino.java)
 10. [Scuza](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Scuza.java)
 

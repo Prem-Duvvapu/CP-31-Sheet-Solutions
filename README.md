@@ -140,5 +140,7 @@
 5. [Vika and the Bridge](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/VikaAndTheBridge.java)
 6. [Contrast Value](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/ContrastValue.java)
 7. [Playing in a Casino](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/PlayingInACasino.java)
+8. [Dora and Search](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/DoraAndSearch.java)
+9. [Matryoshkas](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Matryoshkas.java)
 10. [Scuza](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Scuza.java)
 

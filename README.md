@@ -143,4 +143,5 @@
 8. [Dora and Search](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/DoraAndSearch.java)
 9. [Matryoshkas](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Matryoshkas.java)
 10. [Scuza](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Scuza.java)
+11. [Removing Smallest Multiples](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/RemovingSmallestMultiples.java)
 

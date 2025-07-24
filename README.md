@@ -146,4 +146,5 @@
 11. [Removing Smallest Multiples](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/RemovingSmallestMultiples.java)
 12. [Friends and the Restaurant](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/FriendsAndTheRestaurant.java)
 13. [Virus](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Virus.java)
+14. [Mirror Grid](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/MirrorGrid.java)
 

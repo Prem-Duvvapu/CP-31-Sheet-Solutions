@@ -147,4 +147,6 @@
 12. [Friends and the Restaurant](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/FriendsAndTheRestaurant.java)
 13. [Virus](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Virus.java)
 14. [Mirror Grid](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/MirrorGrid.java)
+15. [Binary Deque](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/BinaryDeque.java)
+25. [Same Differences](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/SameDifferences.java)
 

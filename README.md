@@ -150,5 +150,6 @@
 15. [Binary Deque](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/BinaryDeque.java)
 16. [Stone Age Problem](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/StoneAgeProblem.java)
 17. [Dolce Vita](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/DolceVita.java)
+18. [Differential Sorting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/DifferentialSorting.java)
 25. [Same Differences](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/SameDifferences.java)
 

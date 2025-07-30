@@ -152,5 +152,6 @@
 17. [Dolce Vita](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/DolceVita.java)
 18. [Differential Sorting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/DifferentialSorting.java)
 19. [Make Them Equal](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/MakeThemEqual.java)
+20. [Grandma Capa Knits a Scarf](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/GrandmaCapaKnitsAScarf.java)
 25. [Same Differences](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/SameDifferences.java)
 

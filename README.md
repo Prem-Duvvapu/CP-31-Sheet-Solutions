@@ -154,5 +154,7 @@
 19. [Make Them Equal](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/MakeThemEqual.java)
 20. [Grandma Capa Knits a Scarf](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/GrandmaCapaKnitsAScarf.java)
 21. [Pleasant Pairs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/PleasantPairs.java)
+22. [Stable Groups](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/StableGroups.java)
+23. [Prinzessin der Verurteilung](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/PrinzessinderVerurteilung.java)
 25. [Same Differences](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/SameDifferences.java)
 

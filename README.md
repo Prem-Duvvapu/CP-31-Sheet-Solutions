@@ -158,4 +158,5 @@
 23. [Prinzessin der Verurteilung](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/PrinzessinderVerurteilung.java)
 24. [Palindrome Game (easy version)](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/PalindromeGameEasyVersion.java)
 25. [Same Differences](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/SameDifferences.java)
+26. [AND 0, Sum Big](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/And0SumBig.java)
 

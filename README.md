@@ -161,4 +161,5 @@
 26. [AND 0, Sum Big](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/And0SumBig.java)
 27. [Flip the Bits](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/FlipTheBits.java)
 28. [M-arrays](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Marrays.java)
+29. [Cat Cycle](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/CatCycle.java)
 

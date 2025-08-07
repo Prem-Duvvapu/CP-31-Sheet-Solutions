@@ -162,4 +162,5 @@
 27. [Flip the Bits](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/FlipTheBits.java)
 28. [M-arrays](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Marrays.java)
 29. [Cat Cycle](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/CatCycle.java)
+30. [Districts Connection](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/DistrictsConnection.java)
 

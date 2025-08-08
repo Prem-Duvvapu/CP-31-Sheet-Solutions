@@ -163,4 +163,7 @@
 28. [M-arrays](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/Marrays.java)
 29. [Cat Cycle](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/CatCycle.java)
 30. [Districts Connection](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/DistrictsConnection.java)
+31. [Rock and Lever](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1200/RockAndLever.java)
 
+## 1300
+1. [Divisible Pairs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/DivisiblePairs.java)

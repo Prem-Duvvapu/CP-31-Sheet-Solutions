@@ -169,3 +169,4 @@
 1. [Divisible Pairs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/DivisiblePairs.java)
 2. [Find the Different Ones!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/FindTheDifferentOnes.java)
 3. [Romantic Glasses](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/RomanticGlasses.java)
+4. [Divide and Equalize](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/DivideAndEqualize.java)

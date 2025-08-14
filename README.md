@@ -171,3 +171,4 @@
 3. [Romantic Glasses](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/RomanticGlasses.java)
 4. [Divide and Equalize](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/DivideAndEqualize.java)
 5. [Make it Alternating](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MakeItAlternating.java)
+6. [Strong Vertices](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/StrongVertices.java)

@@ -177,3 +177,4 @@
 9. [Gardener and the Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/GardenerAndTheArray.java)
 10. [Yet Another Problem About Pairs Satisfying an Inequality](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/YetAnotherProblemAboutPairsSatisfyingAnInequality.java)
 11. [White-Black Balanced Subtrees](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/WhiteBlackBalancedSubtrees.java)
+12. [Maximal AND](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MaximalAnd.java)

@@ -179,3 +179,4 @@
 11. [White-Black Balanced Subtrees](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/WhiteBlackBalancedSubtrees.java)
 12. [Maximal AND](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MaximalAnd.java)
 13. [Chat Ban](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/ChatBan.java)
+14. [Array Elimination](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/ArrayElimination.java)

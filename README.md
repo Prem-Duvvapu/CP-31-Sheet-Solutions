@@ -180,4 +180,6 @@
 12. [Maximal AND](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MaximalAnd.java)
 13. [Chat Ban](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/ChatBan.java)
 14. [Array Elimination](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/ArrayElimination.java)
-15. [Box Fitting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/BoxFitting.java)
+15. [Deep Down Below](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/DeepDownBelow.java)
+16. [Box Fitting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/BoxFitting.java)
+17. [Strange Birthday Party](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/StrangeBirthdayParty.java)

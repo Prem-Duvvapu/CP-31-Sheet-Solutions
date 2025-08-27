@@ -185,3 +185,4 @@
 17. [Strange Birthday Party](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/StrangeBirthdayParty.java)
 18. [Move and Turn](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MoveAndTurn.java)
 19. [Omkar and Last Class of Math](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/OkmarAndLastClassOfMath.java)
+20. [Shuffle](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/Shuffle.java)

@@ -186,3 +186,8 @@
 18. [Move and Turn](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MoveAndTurn.java)
 19. [Omkar and Last Class of Math](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/OkmarAndLastClassOfMath.java)
 20. [Shuffle](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/Shuffle.java)
+21. [Most socially-distanced subsequence](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MostSociallyDistancedSubsequence.java)
+22. [Buying Shovels](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/BuyingShovels.java)
+23. [Product of Three Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/ProductOfThreeNumbers.java)
+24. [Just Eat It!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/JustEatIt.java)
+25. [Balanced Tunnel](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/BalancedTunnel.java)

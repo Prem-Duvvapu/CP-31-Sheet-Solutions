@@ -191,3 +191,4 @@
 23. [Product of Three Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/ProductOfThreeNumbers.java)
 24. [Just Eat It!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/JustEatIt.java)
 25. [Balanced Tunnel](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/BalancedTunnel.java)
+26. [WOW Factor](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/WowFactor.java)

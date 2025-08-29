@@ -193,3 +193,6 @@
 25. [Balanced Tunnel](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/BalancedTunnel.java)
 26. [WOW Factor](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/WowFactor.java)
 27. [Alyona and a Narrow Fridge](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/AlyonaAndANarrowFridge.java)
+28. [Good Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/GoodArray.java)
+29.
+30. [Average Sleep Time](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/AverageSleepTime.java)

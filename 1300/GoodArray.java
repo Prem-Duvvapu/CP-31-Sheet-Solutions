@@ -1,21 +1,26 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class GoodArray {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
 
-        int t=fr.nextInt();
-//        int t=1;
+//        int t=fr.nextInt();
+        int t=1;
 
         Solution solution=new Solution();
 
         while (t-- > 0) {
             //take input
+            int n = fr.nextInt();
+            int[] a = new int[n];
+
+            for (int i=0;i<n;i++)
+                 a[i] = fr.nextInt();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(n,a);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -34,7 +39,42 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int n,int[] a) {
+        int firstMaxIndex = -1;
+        int secondMaxIndex = -1;
+        long total = 0;
+        List<Integer> res = new ArrayList<>();
+
+        for (int i=0;i<n;i++) {
+            if (firstMaxIndex==-1 || a[i] > a[firstMaxIndex]) {
+                secondMaxIndex  = firstMaxIndex;
+                firstMaxIndex = i;
+            } else if (secondMaxIndex==-1 || a[i] > a[secondMaxIndex]) {
+                secondMaxIndex = i;
+            }
+
+            total += a[i];
+        }
+
+        for (int i=0;i<n;i++) {
+            if (i == firstMaxIndex) {
+                if (total-a[secondMaxIndex]-a[i] == (long)a[secondMaxIndex])
+                    res.add(i+1);
+            } else {
+                if (total-a[firstMaxIndex]-a[i] == (long)a[firstMaxIndex])
+                    res.add(i+1);
+            }
+        }
+
+        sb.append(res.size()).append("\n");;
+        if (res.size() == 0)
+            return;
+
+        StringJoiner sj = new StringJoiner(" ");
+        for (int val: res)
+            sj.add(Integer.toString(val));
+
+        sb.append(sj);
 
     }
 }

@@ -1,21 +1,27 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class AverageSleepTime {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
 
-        int t=fr.nextInt();
-//        int t=1;
+//        int t=fr.nextInt();
+        int t=1;
 
         Solution solution=new Solution();
 
         while (t-- > 0) {
             //take input
+            int n = fr.nextInt();
+            int k = fr.nextInt();
+            int[] a = new int[n];
+
+            for (int i=0;i<n;i++)
+                a[i] = fr.nextInt();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(n,k,a);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -34,8 +40,25 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int n,int k,int[] a) {
+        int left = 0;
+        int right = k-1;
+        double currSum = 0.0;
+        double total = 0.0;
 
+        for (int i=0;i<k-1;i++)
+            currSum += a[i];
+
+        while (right < n) {
+            currSum += a[right];
+            total += (currSum/(n-k+1));
+            currSum -= a[left];
+
+            right++;
+            left++;
+        }
+
+        sb.append(total);
     }
 }
 

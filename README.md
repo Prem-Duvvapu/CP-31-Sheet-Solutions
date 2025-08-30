@@ -197,3 +197,6 @@
 29. [Mahmoud and Ehab and the bipartiteness](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MahmoudAndEhabAndTheBipartiteness.java)
 30. [Average Sleep Time](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/AverageSleepTime.java)
 31. [Simple Strings](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/SimpleStrings.java)
+
+## 1400
+1. [Anna and the Valentine's Day Gift](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/AnnaAndTheValentinesDayGift.java)

@@ -194,5 +194,6 @@
 26. [WOW Factor](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/WowFactor.java)
 27. [Alyona and a Narrow Fridge](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/AlyonaAndANarrowFridge.java)
 28. [Good Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/GoodArray.java)
-29.
+29. [Mahmoud and Ehab and the bipartiteness](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/MahmoudAndEhabAndTheBipartiteness.java)
 30. [Average Sleep Time](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/AverageSleepTime.java)
+31. [Simple Strings](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1300/SimpleStrings.java)

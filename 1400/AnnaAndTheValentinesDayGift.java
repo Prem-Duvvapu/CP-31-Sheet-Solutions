@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class AnnaAndTheValentinesDayGift {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,9 +13,15 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            int n = fr.nextInt();
+            int m = fr.nextInt();
+            int[] a = new int[n];
+
+            for (int i=0;i<n;i++)
+                a[i] = fr.nextInt();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(n,m,a);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -34,8 +40,34 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int n,int m,int[] a) {
+        int totalZeroCnt = 0;
+        List<Integer> zeroCnt = new ArrayList<>();
 
+        for (int val: a) {
+            totalZeroCnt += Integer.toString(val).length();
+            zeroCnt.add(getZeroCnt(val));
+        }
+
+        Collections.sort(zeroCnt);
+        for (int i=n-1;i>=0;i-=2) {
+            totalZeroCnt -= zeroCnt.get(i);
+        }
+
+        if (totalZeroCnt >= (m+1))
+            sb.append("Sasha");
+        else
+            sb.append("Anna");
+    }
+
+    private Integer getZeroCnt(int val) {
+        int cnt = 0;
+        while (val%10 == 0) {
+            cnt++;
+            val/=10;
+        }
+
+        return cnt;
     }
 }
 

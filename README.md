@@ -200,3 +200,4 @@
 
 ## 1400
 1. [Anna and the Valentine's Day Gift](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/AnnaAndTheValentinesDayGift.java)
+2. [Grouping Increases](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/GroupingIncreases.java)

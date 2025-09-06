@@ -207,3 +207,4 @@
 6. [Iva & Pav](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/IvaAndPav.java)
 7. 
 8. [Copil Copac Draws Trees](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/CopilCopacDrawsTrees.java)
+9. [Hossam and Friends](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/HossamAndFriends.java)

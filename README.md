@@ -205,7 +205,7 @@
 4. [Array Game](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/ArrayGame.java)
 5. [Dances (Easy version)](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/DancesEasyVersion.java)
 6. [Iva & Pav](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/IvaAndPav.java)
-7. 
+7. [Bracket Coloring](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/BracketColoring.java)
 8. [Copil Copac Draws Trees](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/CopilCopacDrawsTrees.java)
 9. [Hossam and Friends](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/HossamAndFriends.java)
 10. 

@@ -211,3 +211,4 @@
 10. [Make It Round](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/MakeItRound.java)
 11. [Add Modulo 10](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/AddModulo10.java)
 12. [Schedule Management](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/ScheduleManagement.java)
+13. [2^Sort](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/TwoPowerSort.java)

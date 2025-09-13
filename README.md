@@ -213,3 +213,4 @@
 12. [Schedule Management](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/ScheduleManagement.java)
 13. [2^Sort](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/TwoPowerSort.java)
 14. [Weird Sum](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/WeirdSum.java)
+15. [Fortune Telling](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/FortuneTelling.java)

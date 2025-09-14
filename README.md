@@ -214,3 +214,4 @@
 13. [2^Sort](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/TwoPowerSort.java)
 14. [Weird Sum](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/WeirdSum.java)
 15. [Fortune Telling](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/FortuneTelling.java)
+16. [Arranging The Sheep](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/ArrangingTheSheep.java)

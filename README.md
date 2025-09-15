@@ -216,3 +216,4 @@
 15. [Fortune Telling](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/FortuneTelling.java)
 16. [Arranging The Sheep](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/ArrangingTheSheep.java)
 17. [Berland Regional](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/BerlandRegional.java)
+18. [AND Sequences](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/AndSequences.java)

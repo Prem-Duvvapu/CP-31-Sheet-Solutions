@@ -47,15 +47,15 @@ class Solution {
     //write logic here and print the result
     public void solve(int a,int b,int k,int[] A,int[] B) {
         long res = 0;
-        int[] degree = new int[4*1_000_00 + 1];
+        int[] degree = new int[a + b + 2];
 
         for (int i=0;i<k;i++) {
             degree[A[i]]++;
-            degree[B[i] + 1_000_00]++;
+            degree[B[i] + a]++;
         }
 
         for (int i=0;i<k;i++) {
-            int curr = k - (degree[A[i]] + degree[B[i] + 1_000_00] - 1);
+            int curr = k - (degree[A[i]] + degree[B[i] + a] - 1);
             res += curr;
         }
 

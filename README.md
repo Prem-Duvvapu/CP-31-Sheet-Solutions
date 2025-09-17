@@ -217,3 +217,5 @@
 16. [Arranging The Sheep](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/ArrangingTheSheep.java)
 17. [Berland Regional](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/BerlandRegional.java)
 18. [AND Sequences](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/AndSequences.java)
+19. [Ball in Berland](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/BallInBerland.java)
+20. [Zero Remainder Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/ZeroRemainderArray.java)

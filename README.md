@@ -220,3 +220,5 @@
 19. [Ball in Berland](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/BallInBerland.java)
 20. [Zero Remainder Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/ZeroRemainderArray.java)
 21. [Johnny and Another Rating Drop](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/JohnnyAndAnotherRatingDrop.java)
+22. [Orac and Models](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/OracAndModels.java)
+23. [Journey Planning](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/JourneyPlanning.java)

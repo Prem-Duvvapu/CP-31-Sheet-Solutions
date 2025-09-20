@@ -223,3 +223,4 @@
 22. [Orac and Models](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/OracAndModels.java)
 23. [Journey Planning](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/JourneyPlanning.java)
 24. [The Number of Products](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/TheNumberOfProducts.java)
+25. [Basketball Exercise](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/BasketballExercise.java)

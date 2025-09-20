@@ -222,3 +222,4 @@
 21. [Johnny and Another Rating Drop](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/JohnnyAndAnotherRatingDrop.java)
 22. [Orac and Models](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/OracAndModels.java)
 23. [Journey Planning](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/JourneyPlanning.java)
+24. [The Number of Products](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/TheNumberOfProducts.java)

@@ -230,3 +230,6 @@
 29. [Queen](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/Queen.java)
 30. [Tape](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/Tape.java)
 31. [Mashmokh and ACM](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/MashmokhAndACM.java)
+
+## 1500
+1. [Greetings](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Greetings.java)

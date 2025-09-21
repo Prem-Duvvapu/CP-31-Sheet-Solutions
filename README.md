@@ -224,3 +224,5 @@
 23. [Journey Planning](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/JourneyPlanning.java)
 24. [The Number of Products](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/TheNumberOfProducts.java)
 25. [Basketball Exercise](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/BasketballExercise.java)
+26. [Candy Box (easy version)](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/CandyBoxEasyVersion.java)
+27. [News Distribution](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/NewsDistribution.java)

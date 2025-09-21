@@ -227,6 +227,6 @@
 26. [Candy Box (easy version)](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/CandyBoxEasyVersion.java)
 27. [News Distribution](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/NewsDistribution.java)
 28. [Lost Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/LostNumbers.java)
-29. [News Distribution](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/NewsDistribution.java)
+29. [Queen](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/Queen.java)
 30. [Tape](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/Tape.java)
 31. [Mashmokh and ACM](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1400/MashmokhAndACM.java)

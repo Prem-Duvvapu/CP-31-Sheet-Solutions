@@ -233,3 +233,5 @@
 
 ## 1500
 1. [Greetings](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Greetings.java)
+2. 
+3. [Block Sequence](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/BlockSequence.java)

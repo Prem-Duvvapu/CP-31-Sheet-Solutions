@@ -41,48 +41,18 @@ class Solution {
     public void solve(int n,int[] a) {
         Arrays.sort(a);
         long res = 0;
-        int low = 0;
-        int high = n-1;
-        int x= 0;
+        long total = Arrays.stream(a).asLongStream().sum();
 
-        while (low < high) {
-            if (x+ a[low] <= a[high]) {
-                res += a[low];
-                x += a[low];
+        long type1 = (long)Math.ceil((double)total/2);
+        long type2 = 0;
+        res += type1;
 
-                if (x == a[high]) {
-                    res += 1;
-                    x = 0;
-                    high--;
-                }
-                low++;
-            } else if (x+a[low] > a[high]) {
-                int req = (a[high] - x);
-                res += req;
-                a[low] -= req;
-                res++;
-                high --;
-                x= 0;
-            }
-        }
+        for (int i=n-1;i>=0;i--) {
+            if (type1 + type2 >= total)
+                break;
 
-        if (low > high) {
-            sb.append(res);
-            return;
-        }
-
-        if (a[high] == x) {
+            type2 += a[i];
             res += 1;
-        } else if (a[high] > x) {
-            if (x == 1) {
-                res += (a[high]/2 + 1);
-                res += a[high]%2;
-            } else {
-                a[high] -= x;
-                res += 1;
-                res += (a[high]/2 + 1);
-                res += a[high]%2;
-            }
         }
 
         sb.append(res);

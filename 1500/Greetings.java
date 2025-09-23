@@ -17,10 +17,11 @@ public class Greetings {
             int[] a = new int[n];
             int[] b = new int[n];
 
-            for (int i=0;i<n;i++) {
+            for (int i=0;i<n;i++)
                 a[i] = fr.nextInt();
+
+            for (int i=0;i<n;i++)
                 b[i] = fr.nextInt();
-            }
 
             //make call to execute the logic
             solution.solve(n,a,b);
@@ -43,7 +44,22 @@ class Solution {
 
     //write logic here and print the result
     public void solve(int n,int[] a,int[] b) {
+        long res = 0;
+        int[][] arr = new int[n][2];
+        TreeSet<Integer> set = new TreeSet<>();
 
+        for (int i=0;i<n;i++) {
+            arr[i][0] = a[i];
+            arr[i][1] = b[i];
+        }
+
+        Arrays.sort(arr, (x,y) -> Integer.compare(x[0],y[0]));
+        for (int i=0;i<n;i++) {
+//            res += set.count(arr[i][1]);
+            set.add(arr[i][1]);
+        }
+
+        sb.append(res);
     }
 }
 

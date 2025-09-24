@@ -233,5 +233,7 @@
 
 ## 1500
 1. [Greetings](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Greetings.java)
-2. 
+2. [Smilo and Monsters](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/SmiloAndMonsters.java)
 3. [Block Sequence](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/BlockSequence.java)
+4. 
+5. [Controllers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Controllers.java)

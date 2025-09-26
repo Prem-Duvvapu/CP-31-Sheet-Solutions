@@ -51,6 +51,7 @@ class Solution {
         c1 = Math.min(c1,n-c1);
         long c2 = n-c1;
 
+
         StringJoiner sj = new StringJoiner("\n");
         for (int[] query: queries) {
             if (c1 == c2) {
@@ -61,17 +62,27 @@ class Solution {
             long a = Math.max(query[0],query[1]);
             long b = Math.min(query[0],query[1]);
 
-            long lcm = getLCM(a,b);
-            long reqC1 = lcm/a;
-            long reqC2 = lcm/b;
-
-            // a*reqC1 = b*reqC2
-
-            long  q = Math.min(c1/reqC1, c2/reqC2);
-            if (c1 - q*reqC1 == c2 - q*reqC2)
-                sj.add("YES");
-            else
+            if (a == b) {
                 sj.add("NO");
+                continue;
+            }
+
+            long lcm = getLCM(a,b);
+            long x = lcm/a;
+            long y = lcm/b;
+
+            // a*x = b*y
+
+            long diff = Math.abs(c1 - c2);
+            if (diff % Math.abs(x-y) != 0) {
+                sj.add("NO");
+            } else {
+                long p = diff / Math.abs(x-y);
+                if (p*(x+y) <= n)
+                    sj.add("YES");
+                else
+                    sj.add("NO");
+            }
         }
 
         sb.append(sj);

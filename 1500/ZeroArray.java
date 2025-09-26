@@ -1,21 +1,25 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class ZeroArray {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
 
-        int t=fr.nextInt();
-//        int t=1;
+//        int t=fr.nextInt();
+        int t=1;
 
         Solution solution=new Solution();
 
         while (t-- > 0) {
             //take input
+            int n = fr.nextInt();
+            long[] a = new long[n];
+            for (int i=0;i<n;i++)
+                a[i] = fr.nextLong();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(n,a);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -34,8 +38,19 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int n,long[] a) {
+        long totalSum = Arrays.stream(a).sum();
 
+        if ((totalSum  & 1) == 1) {
+            sb.append("NO");
+            return;
+        }
+
+        long maxVal = Arrays.stream(a).max().getAsLong();
+        if (maxVal > totalSum - maxVal)
+            sb.append("NO");
+        else
+            sb.append("YES");
     }
 }
 

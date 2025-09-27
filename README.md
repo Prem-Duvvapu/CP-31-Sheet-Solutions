@@ -236,4 +236,21 @@
 2. [Smilo and Monsters](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/SmiloAndMonsters.java)
 3. [Block Sequence](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/BlockSequence.java)
 4. 
-5. [Controllers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Controllers.java)
+5. [Tea Tasting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/TeaTasting.java)
+6. [Controllers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Controllers.java)
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. [K-Complete Word](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_CompleteWord.java)
+18. 
+19. 
+20. [Zero Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ZeroArray.java)
+21. 
+

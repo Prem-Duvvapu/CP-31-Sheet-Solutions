@@ -245,7 +245,7 @@
 11. 
 12. 
 13. 
-14. 
+14. [k-Amazing Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_AmazingNumbers.java)
 15. 
 16. 
 17. [K-Complete Word](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_CompleteWord.java)

@@ -253,4 +253,14 @@
 19. 
 20. [Zero Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ZeroArray.java)
 21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. [Two TVs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/TwoTVs.java)
+31. 
 

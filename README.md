@@ -244,9 +244,9 @@
 10. 
 11. 
 12. 
-13. 
+13. [Mortal Kombat Tower](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/MortalKombatTower.java)
 14. [k-Amazing Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_AmazingNumbers.java)
-15. 
+15. [Balanced Bitstring](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/BalancedBitstring.java)
 16. 
 17. [K-Complete Word](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_CompleteWord.java)
 18. 
@@ -262,5 +262,5 @@
 28. 
 29. 
 30. [Two TVs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/TwoTVs.java)
-31. 
+31. [Little Girl and Maximum Sum](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/LittleGirlAndMaximumSum.java)
 

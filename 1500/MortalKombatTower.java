@@ -1,33 +1,25 @@
 import java.io.*;
 import java.util.*;
 
-public class LittleGirlAndMaximumSum {
+public class MortalKombatTower {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
 
-//        int t=fr.nextInt();
-        int t=1;
+        int t=fr.nextInt();
+//        int t=1;
 
         Solution solution=new Solution();
 
         while (t-- > 0) {
             //take input
             int n = fr.nextInt();
-            int q = fr.nextInt();
             int[] a = new int[n];
-            int[][] arr = new int[q][2];
-
             for (int i=0;i<n;i++)
                 a[i] = fr.nextInt();
 
-            for (int i=0;i<q;i++) {
-                arr[i][0] = fr.nextInt();
-                arr[i][1] = fr.nextInt();
-            }
-
             //make call to execute the logic
-            solution.solve(n,q,a,arr);
+            solution.solve(n,a);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -46,28 +38,34 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve(int n,int q,int[] a,int[][] arr) {
-        long res = 0;
-        int[] diffArr = new int[n];
+    public void solve(int n,int[] a) {
+        int[][] dp = new int[n][2];
+        for (int[] arr: dp)
+            Arrays.fill(arr,-1);
 
-        for (int[] temp: arr) {
-            int l = temp[0];
-            int r = temp[1];
-            diffArr[l-1]+=1;
-            if (r<n)
-                diffArr[r]-=1;
+        int res = helper(0,0,a,n,dp);
+        sb.append(res);
+    }
+
+    private int helper(int i,int isMe, int[] a, int n,int[][] dp) {
+        if (i == n-2 || i == n-1) {
+            if (isMe == 0 && a[i] == 1)
+                return 1;
+            return 0;
         }
 
-        for (int i=1;i<n;i++)
-            diffArr[i]+=diffArr[i-1];
+        if (dp[i][isMe] != -1)
+            return dp[i][isMe];
 
-        Arrays.sort(a);
-        Arrays.sort(diffArr);
+        // one kill
+        int oneKill = (isMe == 1) ? 0: a[i];
+        oneKill += helper(i+1,1 - isMe,a,n,dp);
 
-        for (int i=0;i<n;i++)
-            res += ((long)diffArr[i] * a[i]);
+        // two kills
+        int twoKills = (isMe == 1) ? 0: (a[i] + a[i+1]);
+        twoKills += helper(i+2,1 - isMe,a,n,dp);
 
-        sb.append(res);
+        return dp[i][isMe] = Math.min(oneKill, twoKills);
     }
 }
 

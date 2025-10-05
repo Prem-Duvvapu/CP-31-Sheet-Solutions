@@ -253,11 +253,11 @@
 19. 
 20. [Zero Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ZeroArray.java)
 21. 
-22. 
+22. [Zero Quantity Maximization](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ZeroQuantityMaximization.java)
 23. 
 24. 
 25. 
-26. 
+26. [Cut 'em all!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/CutEmAll.java)
 27. 
 28. 
 29. 

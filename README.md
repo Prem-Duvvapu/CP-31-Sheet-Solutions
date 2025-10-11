@@ -235,10 +235,10 @@
 1. [Greetings](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Greetings.java)
 2. [Smilo and Monsters](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/SmiloAndMonsters.java)
 3. [Block Sequence](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/BlockSequence.java)
-4. 
+4. [Data Structures Fan](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/DataStructuresFan.java)
 5. [Tea Tasting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/TeaTasting.java)
 6. [Controllers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Controllers.java)
-7. 
+7. [Palindrome Basis](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/PalindromeBasis.java)
 8. 
 9. 
 10. 

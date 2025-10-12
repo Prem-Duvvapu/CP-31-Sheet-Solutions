@@ -240,8 +240,8 @@
 6. [Controllers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Controllers.java)
 7. [Palindrome Basis](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/PalindromeBasis.java)
 8. 
-9. 
-10. 
+9. [Factorials and Powers of Two](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/FactorialsAndPowersOfTwo.java)
+10. [AGAGA XOOORRR](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/AgagaXooorrr.java)
 11. 
 12. 
 13. [Mortal Kombat Tower](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/MortalKombatTower.java)

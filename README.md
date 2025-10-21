@@ -239,11 +239,11 @@
 5. [Tea Tasting](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/TeaTasting.java)
 6. [Controllers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Controllers.java)
 7. [Palindrome Basis](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/PalindromeBasis.java)
-8. 
+8. [Line Empire](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/LineEmpire.java)
 9. [Factorials and Powers of Two](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/FactorialsAndPowersOfTwo.java)
 10. [AGAGA XOOORRR](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/AgagaXooorrr.java)
 11. 
-12. 
+12. [13th Labour of Heracles](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ThirteenthLabourOfHeracles.java)
 13. [Mortal Kombat Tower](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/MortalKombatTower.java)
 14. [k-Amazing Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_AmazingNumbers.java)
 15. [Balanced Bitstring](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/BalancedBitstring.java)

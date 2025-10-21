@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class LineEmpire {
+public class ThirteenthLabourOfHeracles {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -14,14 +14,21 @@ public class LineEmpire {
         while (t-- > 0) {
             //take input
             int n = fr.nextInt();
-            int a = fr.nextInt();
-            int b = fr.nextInt();
-            int[] x = new int[n];
+            int[] wt = new int[n];
             for (int i=0;i<n;i++)
-                x[i] = fr.nextInt();
+                wt[i] = fr.nextInt();
+            int[] degree = new int[n];
+            for (int i=0;i<n-1;i++) {
+                int u = fr.nextInt();
+                int v = fr.nextInt();
+                u-=1;
+                v-=1;
+                degree[u]++;
+                degree[v]++;
+            }
 
             //make call to execute the logic
-            solution.solve(n,a,b,x);
+            solution.solve(n,wt,degree);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -40,20 +47,29 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve(int n,int a,int b,int[] x) {
-        long[] suffixSum = new long[n];
-        suffixSum[n-1] = x[n-1];
+    public void solve(int n,int[] wt,int[] degree) {
+        StringJoiner sj = new StringJoiner(" ");
+        long sum = 0;
+        for (int val: wt)
+            sum += val;
 
-        for (int i=n-2;i>=0;i--)
-            suffixSum[i] = x[i]+suffixSum[i+1];
+        sj.add(String.valueOf(sum));
+        PriorityQueue<Integer> pq = new PriorityQueue<>((x,y) -> Integer.compare(wt[y], wt[x]));
 
-        long res = suffixSum[0] * b;
-        for (int i=0;i<n-1;i++) {
-            long curr = (a+b)*(long)x[i] + suffixSum[i+1]*b - (long)x[i]*(n - 1 - i)*b;
-            res = Math.min(res, curr);
+        for (int i=0;i<n;i++)
+            if (degree[i] >= 2)
+                pq.add(i);
+
+        for (int k=2;k<n;k++) {
+            int top = pq.peek();
+            sum += wt[top];
+            degree[top]--;
+            if (degree[top] == 1)
+                pq.poll();
+            sj.add(String.valueOf(sum));
         }
 
-        sb.append(res);
+        sb.append(sj);
     }
 }
 

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class CPTemplate {
+public class LineEmpire {
     public static void main(String[] args) {
         FastReader fr=new FastReader();
         PrintWriter out=new PrintWriter(System.out);
@@ -13,9 +13,15 @@ public class CPTemplate {
 
         while (t-- > 0) {
             //take input
+            int n = fr.nextInt();
+            int a = fr.nextInt();
+            int b = fr.nextInt();
+            int[] x = new int[n];
+            for (int i=0;i<n;i++)
+                x[i] = fr.nextInt();
 
             //make call to execute the logic
-            solution.solve();
+            solution.solve(n,a,b,x);
 
             //new line after test case ans
             solution.sb.append("\n");
@@ -34,8 +40,20 @@ class Solution {
     public StringBuilder sb=new StringBuilder();
 
     //write logic here and print the result
-    public void solve() {
+    public void solve(int n,int a,int b,int[] x) {
+        long[] suffixSum = new long[n];
+        suffixSum[n-1] = x[n-1];
 
+        for (int i=n-2;i>=0;i--)
+            suffixSum[i] = x[i]+suffixSum[i+1];
+
+        long res = suffixSum[0] * b;
+        for (int i=0;i<n-1;i++) {
+            long curr = (a+b)*(long)x[i] + suffixSum[i+1]*b - (long)x[i]*(n - 1 - i)*b;
+            res = Math.min(res, curr);
+        }
+
+        sb.append(res);
     }
 }
 

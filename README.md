@@ -260,7 +260,7 @@
 26. [Cut 'em all!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/CutEmAll.java)
 27. 
 28. 
-29. 
+29. [Pride](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/Pride.java)
 30. [Two TVs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/TwoTVs.java)
 31. [Little Girl and Maximum Sum](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/LittleGirlAndMaximumSum.java)
 

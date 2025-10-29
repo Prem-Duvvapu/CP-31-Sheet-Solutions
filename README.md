@@ -255,7 +255,7 @@
 21. 
 22. [Zero Quantity Maximization](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ZeroQuantityMaximization.java)
 23. 
-24. 
+24. [Division and Union](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/DivisionAndUnion.java)
 25. [The Fair Nut and String](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/TheFairNutAndString.java)
 26. [Cut 'em all!](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/CutEmAll.java)
 27. [Nested Segments](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/NestedSegments.java)

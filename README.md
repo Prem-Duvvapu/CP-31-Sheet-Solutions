@@ -252,7 +252,7 @@
 18. 
 19. 
 20. [Zero Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ZeroArray.java)
-21. 
+21. [Edgy Trees](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/EdgyTrees.java)
 22. [Zero Quantity Maximization](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ZeroQuantityMaximization.java)
 23. [Lunar New Year and a Wander](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/LunarNewYearAndAWander.java)
 24. [Division and Union](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/DivisionAndUnion.java)

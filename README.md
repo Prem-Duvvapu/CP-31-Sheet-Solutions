@@ -249,7 +249,7 @@
 15. [Balanced Bitstring](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/BalancedBitstring.java)
 16. 
 17. [K-Complete Word](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_CompleteWord.java)
-18. 
+18. [Ehab and Path-etic MEXs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/EhabAndPatheticMEXs.java)
 19. 
 20. [Zero Array](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/ZeroArray.java)
 21. [Edgy Trees](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/EdgyTrees.java)

@@ -247,7 +247,7 @@
 13. [Mortal Kombat Tower](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/MortalKombatTower.java)
 14. [k-Amazing Numbers](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_AmazingNumbers.java)
 15. [Balanced Bitstring](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/BalancedBitstring.java)
-16. 
+16. [Powered Addition](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/PoweredAddition.java)
 17. [K-Complete Word](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/K_CompleteWord.java)
 18. [Ehab and Path-etic MEXs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/EhabAndPatheticMEXs.java)
 19. 

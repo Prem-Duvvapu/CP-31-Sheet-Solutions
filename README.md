@@ -264,3 +264,5 @@
 30. [Two TVs](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/TwoTVs.java)
 31. [Little Girl and Maximum Sum](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1500/LittleGirlAndMaximumSum.java)
 
+## 1600
+2. [Good Triples](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1600/GoodTriples.java)

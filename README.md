@@ -266,3 +266,4 @@
 
 ## 1600
 2. [Good Triples](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1600/GoodTriples.java)
+3. [To Become Max](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1600/ToBecomeMax.java)

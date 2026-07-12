@@ -270,3 +270,5 @@
 4. [To Become Max](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1600/ToBecomeMax.java)
 5. 
 6. [Round Dance](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1600/RoundDance.java)
+7. [Hits Different](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1600/HitsDifferent.java)
+8. [Shocking Arrangement](https://github.com/Prem-Duvvapu/CP-31-Sheet-Solutions/blob/main/1600/ShockingArrangement.java)
